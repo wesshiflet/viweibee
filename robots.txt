@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yooghaica.rcs-pol.eu/sitemap.xml
